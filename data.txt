@@ -1,0 +1,4 @@
+2001-08-20:riya:['go walk', 'do homework', 'buy groceries']
+2002-09-20:riya:['go walk', 'do homework', 'buy shoe']
+2003-09-20:riya:['add books', 'read books', 'go walk']
+2002-07-20:priya:['read', 'walk', 'call']
